@@ -19,7 +19,4 @@ def bonus
       ]
    }
 }
-
-
-
 end
